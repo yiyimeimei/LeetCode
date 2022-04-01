@@ -8,6 +8,12 @@
         "array": "cpp",
         "string_view": "cpp",
         "limits": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "unordered_map": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "unordered_set": "cpp",
+        "optional": "cpp",
+        "map": "cpp"
     }
 }
